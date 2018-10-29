@@ -9,6 +9,8 @@ package designpattern.command_6;
  */
 public class RemoteControlTest {
 
+
+
     public static void main(String[] args){
 
         SimpleRemoteControl remoteControl = new SimpleRemoteControl();
