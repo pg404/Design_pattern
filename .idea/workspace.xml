@@ -2,23 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c632d0b3-cecc-4749-ba18-265896416325" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter3/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/ConnectionDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/ConnectionPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/ConnectionPoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/Daemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/Interrupted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/Join.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/Piped.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/Profiler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/ShutDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/SimpleHttpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/SleepUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/ThreadState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/WaitNotify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter5/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design_pattern/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_basic/BigEndian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_basic/CallableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_basic/RunableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_basic/SimpleDateFormatText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_basic/StringText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_basic/ThreadExtends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_basic/YiWeiOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_basic/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/software_engineering/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/javase/ThisIsATest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/javase/a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/javaweb/a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/CeilingFan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/CeilingFan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/CeilingFanOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/CeilingFanOffCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/CeilingFanOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/CeilingFanOnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/GarageDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/GarageDoor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/GarageDoorDownCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/GarageDoorDownCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/GarageDoorUpCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/GarageDoorUpCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/GarbageDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/GarbageDoor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/GarbageDoorOpenCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/GarbageDoorOpenCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/Light.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/LightOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/LightOffCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/LightOnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/NoCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/NoCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/RemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/RemoteControlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/RemoteControlTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/RemoteLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/RemoteLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/SimpleRemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/SimpleRemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/Stereo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/Stereo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/StereoOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/StereoOffCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/command_6/StereoOnWithCDCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/command_6/StereoOnWithCDCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/factory_4/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/factory_4/CheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/factory_4/ChicagoStylePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/factory_4/ChicagoStylePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/factory_4/ClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/factory_4/ClamPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/factory_4/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/factory_4/NYPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/factory_4/NYStylePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/factory_4/NYStylePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/factory_4/PepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/factory_4/PepperoniPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/factory_4/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/factory_4/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/factory_4/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/factory_4/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/factory_4/PizzaTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/factory_4/PizzaTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/factory_4/SimplePizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/factory_4/SimplePizzaFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/factory_4/VeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/factory_4/VeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/singleton_5/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/singleton_5/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/singleton_5/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/singleton_5/Singleton1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designpattern/singleton_5/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design_pattern/singleton_5/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javase/ThisIsATest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javase/a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaweb/a.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,14 +67,41 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Exercise" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BigEndian.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_basic/BigEndian.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="41" column="67" selection-start-line="41" selection-start-column="67" selection-end-line="41" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="note.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/note.md">
+        <entry file="file://$PROJECT_DIR$/src/java_basic/note.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="347">
-                <caret line="107" column="13" lean-forward="true" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+              <first_editor relative-caret-position="1836">
+                <caret line="108" column="6" selection-start-line="108" selection-start-column="6" selection-end-line="108" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="note.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/software_engineering/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="4556">
+                <caret line="268" selection-start-line="268" selection-end-line="268" />
               </first_editor>
               <second_editor />
             </state>
@@ -46,118 +109,79 @@
         </entry>
       </file>
       <file leaf-file-name="note.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter3/note.md">
+        <entry file="file://$PROJECT_DIR$/src/database/note.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <first_editor relative-caret-position="446">
+                <caret line="67" selection-start-line="67" selection-end-line="67" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WaitNotify.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/WaitNotify.java">
+      <file leaf-file-name="note.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design_pattern/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="204">
+                <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadExtends.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_basic/ThreadExtends.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="510">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Piped.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/Piped.java">
+      <file leaf-file-name="RunableImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_basic/RunableImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#877#878#0" expanded="true" />
-                <element signature="e#913#914#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Join.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/Join.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-              <folding>
-                <element signature="e#825#826#0" expanded="true" />
-                <element signature="e#869#870#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Profiler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/Profiler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="e#400#528#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
-                <element signature="e#668#669#0" expanded="true" />
-                <element signature="e#742#743#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConnectionPool.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/ConnectionPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#337#349#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConnectionPoolTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/ConnectionPoolTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleHttpServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/SimpleHttpServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="28" column="53" lean-forward="true" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#339#359#0" expanded="true" />
-                <element signature="e#1369#1370#0" expanded="true" />
-                <element signature="e#1413#1414#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConnectionDriver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/ConnectionDriver.java">
+      <file leaf-file-name="CallableImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_basic/CallableImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
-              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringText.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_basic/StringText.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleDateFormatText.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_basic/SimpleDateFormatText.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -181,23 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/designpattern/factory/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/singleton/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/singleton/Singleton1.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/singleton/Singleton2.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/singleton_5/Singleton2.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/command_6/Command.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/command_6/LightOnCommand.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/command_6/SimpleRemoteControl.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/command_6/GarbageDoor.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/command_6/GarbageDoorOpenCommand.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/command_6/NoCommand.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/command_6/RemoteControl.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/command_6/LightOffCommand.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/command_6/Stereo.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/command_6/StereoOnWithCDCommand.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/command_6/StereoOffCommand.java" />
-        <option value="$PROJECT_DIR$/src/designpattern/command_6/RemoteLoader.java" />
         <option value="$PROJECT_DIR$/src/designpattern/command_6/CeilingFanOffCommand.java" />
         <option value="$PROJECT_DIR$/src/designpattern/command_6/CeilingFanOnCommand.java" />
         <option value="$PROJECT_DIR$/src/designpattern/command_6/GarageDoorDownCommand.java" />
@@ -232,6 +239,23 @@
         <option value="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/SimpleHttpServer.java" />
         <option value="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/note.md" />
         <option value="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter3/note.md" />
+        <option value="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter3/ReentrantLockExample.java" />
+        <option value="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter5/note.md" />
+        <option value="$PROJECT_DIR$/src/netease/code/interview/Main.java" />
+        <option value="$PROJECT_DIR$/src/javase/YiWeiOperator.java" />
+        <option value="$PROJECT_DIR$/src/java_basic/YiWeiOperator.java" />
+        <option value="$PROJECT_DIR$/src/java_basic/BigEndian.java" />
+        <option value="$PROJECT_DIR$/src/java_basic/SimpleDateFormat.java" />
+        <option value="$PROJECT_DIR$/src/java_basic/SimpleDateFormatText.java" />
+        <option value="$PROJECT_DIR$/src/java_basic/StringText.java" />
+        <option value="$PROJECT_DIR$/src/java_basic/ThreadExtends.java" />
+        <option value="$PROJECT_DIR$/src/java_basic/RunableImpl.java" />
+        <option value="$PROJECT_DIR$/src/java_basic/CallableImpl.java" />
+        <option value="$PROJECT_DIR$/src/java_basic/note.md" />
+        <option value="$PROJECT_DIR$/src/design_pattern/note.md" />
+        <option value="$PROJECT_DIR$/src/software_engine/note.md" />
+        <option value="$PROJECT_DIR$/src/software_engineering/note.md" />
+        <option value="$PROJECT_DIR$/src/database/note.md" />
       </list>
     </option>
   </component>
@@ -277,9 +301,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -296,69 +319,25 @@
               <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="act_of_concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="act_of_concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="act_of_concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="act_of_concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="act_of_concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javaweb" type="462c0819:PsiDirectoryNode" />
+              <item name="software_engineering" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -388,58 +367,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReentrantLockExample">
-    <configuration name="ConnectionPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent.act_of_concurrent.chapter4.ConnectionPoolTest" />
+  <component name="RunManager" selected="Application.CallableImpl">
+    <configuration name="CallableImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_basic.CallableImpl" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrent.act_of_concurrent.chapter4.*" />
+          <option name="PATTERN" value="java_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent.act_of_concurrent.chapter4.Join" />
+    <configuration name="RunableImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_basic.RunableImpl" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrent.act_of_concurrent.chapter4.*" />
+          <option name="PATTERN" value="java_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Piped" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent.act_of_concurrent.chapter4.Piped" />
+    <configuration name="SimpleDateFormatText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_basic.SimpleDateFormatText" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrent.act_of_concurrent.chapter4.*" />
+          <option name="PATTERN" value="java_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Profiler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent.act_of_concurrent.chapter4.Profiler" />
+    <configuration name="StringText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_basic.StringText" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrent.act_of_concurrent.chapter4.*" />
+          <option name="PATTERN" value="java_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ReentrantLockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent.act_of_concurrent.chapter3.ReentrantLockExample" />
+    <configuration name="ThreadExtends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_basic.ThreadExtends" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrent.act_of_concurrent.chapter3.*" />
+          <option name="PATTERN" value="java_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -486,19 +465,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Piped" />
-      <item itemvalue="Application.Join" />
-      <item itemvalue="Application.Profiler" />
-      <item itemvalue="Application.ConnectionPoolTest" />
-      <item itemvalue="Application.ReentrantLockExample" />
+      <item itemvalue="Application.SimpleDateFormatText" />
+      <item itemvalue="Application.StringText" />
+      <item itemvalue="Application.ThreadExtends" />
+      <item itemvalue="Application.RunableImpl" />
+      <item itemvalue="Application.CallableImpl" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReentrantLockExample" />
-        <item itemvalue="Application.ConnectionPoolTest" />
-        <item itemvalue="Application.Profiler" />
-        <item itemvalue="Application.Join" />
-        <item itemvalue="Application.Piped" />
+        <item itemvalue="Application.CallableImpl" />
+        <item itemvalue="Application.RunableImpl" />
+        <item itemvalue="Application.ThreadExtends" />
+        <item itemvalue="Application.StringText" />
+        <item itemvalue="Application.SimpleDateFormatText" />
       </list>
     </recent_temporary>
   </component>
@@ -531,45 +510,53 @@
       <workItem from="1538990502576" duration="725000" />
       <workItem from="1539159537882" duration="2924000" />
       <workItem from="1540193429309" duration="647000" />
-      <workItem from="1540799052885" duration="11312000" />
+      <workItem from="1540799052885" duration="12322000" />
+      <workItem from="1540965897094" duration="932000" />
+      <workItem from="1541125143113" duration="780000" />
+      <workItem from="1541159507037" duration="1610000" />
+      <workItem from="1541492332157" duration="1454000" />
+      <workItem from="1541579111879" duration="1328000" />
+      <workItem from="1541658991821" duration="12552000" />
+      <workItem from="1541747722336" duration="6812000" />
+      <workItem from="1541982943290" duration="13283000" />
+      <workItem from="1542072046308" duration="600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57100000" />
+    <option name="totallyTimeSpent" value="97461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32843137" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16363636" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.2214876" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.12561983" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3338843" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289256" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1913767" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49752066" visible="true" weight="0.1482602" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.5008264" side_tool="true" weight="0.10514372" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" sideWeight="0.5024793" side_tool="true" weight="0.10514372" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32561985" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32561985" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -578,7 +565,6 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2739274" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32843137" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2473525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -589,15 +575,16 @@
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.330033" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32843137" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
@@ -638,168 +625,64 @@
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/netease/code/interview/Dictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="70" column="24" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/netease/code/interview/LongZombie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/netease/code/interview/MaxInterest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/netease/code/interview/CountApple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="79" column="22" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/netease/code/interview/ClubMonitorSelection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/NoCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/RemoteControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/LightOffCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/StereoOnWithCDCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/Stereo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="31" column="69" lean-forward="true" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/StereoOffCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/CeilingFan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/CeilingFanOffCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/command_6/CeilingFanOffCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/CeilingFanOnCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/command_6/CeilingFanOnCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/GarageDoor.java">
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/command_6/GarageDoor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/GarageDoorDownCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/command_6/GarageDoorDownCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/GarbageDoor.java">
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/command_6/GarbageDoor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/Light.java">
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/command_6/Light.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/GarbageDoorOpenCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/command_6/GarbageDoorOpenCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/RemoteLoader.java">
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/command_6/RemoteLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase/a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="69" selection-start-column="69" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaweb/a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/GarageDoorUpCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/javaweb/a.txt" />
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/command_6/GarageDoorUpCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
@@ -813,35 +696,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpattern/command_6/RemoteControlTest.java">
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/command_6/RemoteControlTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javase/ThisIsATest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/Priority.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-245">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1120#1121#0" expanded="true" />
-            <element signature="e#1168#1169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter2/note.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/Priority.java" />
     <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter1/DeadLockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -849,22 +711,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter1/note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter1/note.txt" />
     <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter2/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -892,9 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-60">
           <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -930,10 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="79">
           <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-          <folding>
-            <element signature="e#1162#1163#0" expanded="true" />
-            <element signature="e#1196#1197#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -949,99 +793,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/Piped.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#877#878#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="527">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/Join.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding>
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="459">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/Profiler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="e#400#528#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/ConnectionDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="476">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/ConnectionPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#337#349#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/ConnectionPoolTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/SimpleHttpServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="28" column="53" lean-forward="true" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#339#359#0" expanded="true" />
-            <element signature="e#1369#1370#0" expanded="true" />
-            <element signature="e#1413#1414#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="697">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="347">
-            <caret line="107" column="13" lean-forward="true" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
+          <first_editor relative-caret-position="1819">
+            <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
@@ -1051,7 +845,139 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="170">
-            <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/SimpleHttpServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter4/ConnectionPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter3/ReentrantLockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_basic/ThisIsATest.java" />
+    <entry file="file://$PROJECT_DIR$/src/java_basic/a.txt" />
+    <entry file="file://$PROJECT_DIR$/src/netease/code/interview/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter5/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1003">
+            <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_basic/YiWeiOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_basic/BigEndian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="41" column="67" selection-start-line="41" selection-start-column="67" selection-end-line="41" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_basic/SimpleDateFormatText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_basic/StringText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_basic/RunableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_basic/CallableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_basic/ThreadExtends.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_basic/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1836">
+            <caret line="108" column="6" selection-start-line="108" selection-start-column="6" selection-end-line="108" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="204">
+            <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/software_engineering/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4556">
+            <caret line="268" selection-start-line="268" selection-end-line="268" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="446">
+            <caret line="67" selection-start-line="67" selection-end-line="67" />
           </first_editor>
           <second_editor />
         </state>
