@@ -1,4 +1,4 @@
-package netease.code.interview;
+package interview_code;
 
 import java.util.Scanner;
 

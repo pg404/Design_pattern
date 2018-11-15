@@ -1,10 +1,10 @@
-package netease.code.interview;
+package interview_code;
 
 import java.util.Scanner;
 
 /**
  * Project:Exercise
- * Package:netease.code.interview
+ * Package:interview_code.code.interview
  * Author:Alan Ruan
  * Date:2018-08-14 15:48
  * Description://TODO 网易java笔试编程第二题

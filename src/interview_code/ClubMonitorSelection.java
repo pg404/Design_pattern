@@ -1,10 +1,10 @@
-package netease.code.interview;
+package interview_code;
 
 import java.util.Scanner;
 
 /**
  * Project:Exercise
- * Package:netease.code.interview
+ * Package:interview_code.code.interview
  * Author:Alan Ruan
  * Date:2018-09-08 15:39
  * Description://TODO  网易校招java笔试  社团主席选举
