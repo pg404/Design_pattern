@@ -76,7 +76,51 @@ Collections是个java.util下的类，它包含有各种有关集合操作的静
 1.继承Thread类  
 2.实现Runnable接口  
 3.实现Callable接口  
+*总结*  
 
-####11.
+10.1、实现Runnable接口相比继承Thread类有如下优势：  
+>1）可以避免由于Java的单继承特性而带来的局限  
+2）增强程序的健壮性，代码能够被多个线程共享，代码与数据是独立的  
+3）适合多个相同程序代码的线程去处理同一资源的情况  
+4）线程池只能放入实现Runable或Callable类线程，不能直接放入继承Thread的类  
 
+10.2、实现Runnable接口和实现Callable接口的区别:  
+>1）Runnable是自从java1.1就有了，而Callable是1.5之后才加上去的  
+2）实现Callable接口的任务线程能返回执行结果，而实现Runnable接口的任务线程不能返回结果  
+3）Callable接口的call()方法允许抛出异常，而Runnable接口的run()方法的异常只能在内部消化，不能继续上抛  
+4）加入线程池运行，Runnable使用ExecutorService的execute方法，Callable使用submit方法  
+
+>注：Callable接口支持返回执行结果，此时需要调用FutureTask.get()方法实现，此方法会阻塞主线程直到获取返回结果，当不调用此方法时，主线程不会阻塞
+
+
+####11.sleep()和wait()的区别
+[https://blog.csdn.net/xyh269/article/details/52613507]  
+
+总的来说，sleep() 和 wait() 的区别就是 调用sleep方法的线程不会释放对象锁，而调用wait() 方法会释放对象锁  
+>（1）原理不同，sleep()是Thread类的静态方法，是线程用来控制自身流程的，而wait()是Object类的方法，用于线程间的通信，会使当前拥有该对象锁的进程等待，直到其他线程调用notify方法时才醒来.  
+（2）对锁的处理机制不同，sleep()不涉及线程间的通信，不会释放锁，而wait()需要释放锁。  
+（3）使用区域不同，wait()用于同步控制方法或者同步语句块中，sleep()可以在任何地方使用  
+（4）sleep方法必须捕获异常，因为有可能在sleep过程中被其他对象调用它的interrupt(),产生InterruptedException。
+
+
+####12.多线程同步的实现方法
+1.synchronized关键字
+2.wait与notify
+3.Lock
+
+####13.线程池
+[https://www.jianshu.com/p/210eab345423]  
+>在java语言中，可以通过new Thread 方法创建一个新的线程执行任务，但是线程的创建是非常耗时的，而且刚创建出来的新的线程都是各自运行，缺乏统一的管理，
+这样可能会导致创建过多的线程从而过度消耗系统的资源，线程池的引入就是为了解决这些问题。 
+
+####14.JDBC事务隔离级别
+>TRANSACTION_NONE 说明不支持事务。  
+TRANSACTION_READ_UNCOMMITTED 说明在提交前一个事务可以看到另一个事务的变化。这样脏读、不可重复的读和虚读都是允许的。   
+TRANSACTION_READ_COMMITTED 说明读取未提交的数据是不允许的。这个级别仍然允许不可重复的读和虚读产生。    
+TRANSACTION_REPEATABLE_READ 说明事务保证能够再次读取相同的数据而不会失败，但虚读仍然会出现。    
+TRANSACTION_SERIALIZABLE 是最高的事务级别，它防止脏读、不可重复的读和虚读  
+[https://blog.csdn.net/applehoney/article/details/2270732]
+
+####15.Spring的AOP与IOC
+[https://blog.csdn.net/eson_15/article/details/51090040]
 
