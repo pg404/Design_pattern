@@ -1,8 +1,8 @@
-package essential_algorithm.线性表.数组;
+package data_structure_and_algorithm.essential_algorithm_of_leetcode.线性表.数组;
 
 /**
  * Project:Exercise
- * Package:essential_algorithm.线性表.数组
+ * Package:data_structure_and_algorithm.essential_algorithm_of_leetcode.线性表.数组
  * Author:Alan Ruan
  * Date:2018-11-20 20:10
  * Description://TODO  Remove Duplicates from Sorted Array

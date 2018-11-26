@@ -13,6 +13,8 @@
 低地址 ------------------> 高地址  
 0x78  |  0x56  |  0x34  |  0x1  
 
+java字节序是大端
+
 ####2.关于Java语言
 Java语言是解释性语言，运行过程为，源代码经过Java编译器编译成字节码，然后再由JVM解释执行，
 而C++/C语言为编译型语言，源代码经过编译和链接后生成可执行性二进制代码，
@@ -22,11 +24,16 @@ Java语言是解释性语言，运行过程为，源代码经过Java编译器编
 &是按位与操作符，a&b是把a和b都转换为二进制数之后，然后再进行按位与的运算，而&&为逻辑与操作符，而且具有短路功能。
 
 ####4.String, StringBuffer和StringBuilder
+ [https://blog.csdn.net/weixin_41101173/article/details/79677982]
+ 
  >String 类型和 StringBuffer 类型的主要性能区别其实在于 String 是不可变的对象, 因此在每次对 String 类型进行改变的时候其实都等同于生成了一个新的 String 对象，而如果是使用 StringBuffer 类则结果就不一样了，每次结果都会对 StringBuffer 对象本身进行操作，而不是生成新的对象。
+ 
+ 
  
 ####5.==和equals
  “==”比较的是值【变量(栈)内存中存放的对象的(堆)内存地址】   
  equal用于比较两个对象的值是否相同【不是比地址】
+ [https://blog.csdn.net/lhooouuu/article/details/6030194]
  >详细自己找资料
  
 ####6. Java语言中，Socket的连接和建立的原理
@@ -123,4 +130,77 @@ TRANSACTION_SERIALIZABLE 是最高的事务级别，它防止脏读、不可重�
 
 ####15.Spring的AOP与IOC
 [https://blog.csdn.net/eson_15/article/details/51090040]
+
+####16.泛型的一些笔记
+
+>泛型的类型参数只能是类类型（包括自定义类），不能是简单类型
+
+
+####17.Scanner的一些笔记
++ nextInt()、next()、nextLine()  
+[https://blog.csdn.net/Megustas_JJC/article/details/68960433]
+>nextInt(): it only reads the int value, nextInt() places the cursor（光标） in the same line after reading the input.（nextInt()只读取数值，剩下”\n”还没有读取，并将cursor放在本行中）
+ 
+>next(): read the input only till the space. It can’t read two words separated by space. Also, next() places the cursor in the same line after reading the input.（next()只读空格之前的数据，并且cursor指向本行） 
+ next() 方法遇见第一个有效字符（非空格，非换行符）时，开始扫描，当遇见第一个分隔符或结束符(空格或换行符)时，结束扫描，获取扫描到的内容，即获得第一个扫描到的不含空格、换行符的单个字符串。
+ 
+>nextLine(): reads input including space between the words (that is, it reads till the end of line \n). Once the input is read, nextLine() positions the cursor in the next line. 
+ nextLine()时，则可以扫描到一行内容并作为一个字符串而被获取到。
+
+
++ hasnext()方法
+[https://blog.csdn.net/gao_zhennan/article/details/80562548]
+>方法解释：如果此扫描器的输入（缓冲区）中有另一个token(输入的字符或数字)，则返回true。what？ 根本没有提到什么时候返回false。其实执行过程是这样的(重点：），当执行到hasNext（）时，它会先扫描缓冲区中是否有字符，有则返回true,继续扫描。直到扫描为空，这时并不返回false,而是将方法阻塞，等待你输入内容然后继续扫描。
+>使用带有参数的重载方法，当扫描到的字符与参数值匹配时返回true
+
+
+####18.位运算
+
+[https://blog.csdn.net/sinat_35121480/article/details/53510793]
+
++ 按位于运算符 & 
+>参加运算的两个数据，按二进制位进行“与”运算。  
+运算规则：0&0=0;  0&1=0;   1&0=0;    1&1=1;  
+即：两位同时为“1”，结果才为“1”，否则为0
+
+>另，负数按补码形式参加按位与运算。
+
++ 按位或运算符 |
+>参加运算的两个对象，按二进制位进行“或”运算。  
+ 运算规则：0|0=0；  0|1=1；  1|0=1；   1|1=1；  
+ 即 ：参加运算的两个对象只要有一个为1，其值为1。  
+ 例如:3|5　即 00000011 | 0000 0101 = 00000111  因此，3|5的值得7。
+
+
++ 异或运算符 ^
+>参加运算的两个数据，按二进制位进行“异或”运算。  
+运算规则：0^0=0；  0^1=1；  1^0=1；   1^1=0；  
+即：参加运算的两个对象，如果两个相应位为“异”（值不同），则该位结果为1，否则为0。
+
+>异或其实就是不进位加法
+
++ 左移运算符 <<
+>若左移时舍弃的高位不包含1，则每左移一位，相当于该数乘以2
+
++ 右移运算符 >>
+>将一个数的各二进制位全部右移若干位，正数左补0，负数左补1，右边丢弃。
+ 操作数每右移一位，相当于该数除以2
+
+
+####19.LinkedList
+
+[https://blog.csdn.net/sinat_36246371/article/details/53709625]
+
+
+
+
+####20.
+
+
+
+
+
+
+
+
 
