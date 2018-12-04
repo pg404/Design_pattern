@@ -2,30 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c632d0b3-cecc-4749-ba18-265896416325" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/CharacterPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/DeleteNodeInO1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/FindKthToTail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/FindTheNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/MakeQueueWithTwoStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/MergeTwoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/MirrorBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/NumOfOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/PrintBinaryTreeFromTopToBottom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/PrintCombineMinNumberFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/PrintOneToMaxN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/RebuildBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/ReplaceWhiteSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_code/BracketsMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/FirstNotRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/UglyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/位操作/ReverseBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/字符串/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/数论/HappyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/暴力枚举/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/查找/SearchRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/单链表/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/数组/Duplicate_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/java集合框架层次结构图.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview_code/LoopQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/BinaryTree_Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/BinaryTree_Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercise/essential_algorithm/线性表/数组/Duplicate_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/ArrayExpand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/BinaryTree_DiGui.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/BinaryTree_Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/PrintTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/ReverseTheString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/SimpleSelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/algorithm_of_剑指offer/DeleteNodeInO1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/algorithm_of_剑指offer/DeleteNodeInO1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/algorithm_of_剑指offer/FindKthToTail.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/algorithm_of_剑指offer/FindKthToTail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/algorithm_of_剑指offer/MergeTwoList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/algorithm_of_剑指offer/MergeTwoList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/algorithm_of_剑指offer/MirrorBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/algorithm_of_剑指offer/MirrorBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/algorithm_of_剑指offer/PrintBinaryTreeFromTopToBottom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercise/data_structure_and_algorithm/algorithm_of_剑指offer/PrintBinaryTreeFromTopToBottom.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Exercise/java_basic/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercise/java_basic/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/BinaryTree_Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/BinaryTree_Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/ReverseTheString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/ReverseTheString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/essential_algorithm/线性表/数组/Duplicate_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/数组/Duplicate_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/ArrayExpand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/ArrayExpand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/BinaryTree_DiGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/BinaryTree_DiGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/BinaryTree_Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/BinaryTree_Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/PrintTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/PrintTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/ReverseTheString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/ReverseTheString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/SimpleSelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/SimpleSelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/DeleteNodeInO1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/DeleteNodeInO1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/FindKthToTail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/FindKthToTail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/MergeTwoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/MergeTwoList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/MirrorBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/MirrorBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/PrintBinaryTreeFromTopToBottom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/PrintBinaryTreeFromTopToBottom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java_basic/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_basic/note.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -58,114 +81,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ValidPalindrome.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/字符串/ValidPalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseBits.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/位操作/ReverseBits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="65" column="55" selection-start-line="65" selection-start-column="55" selection-end-line="65" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Subsets.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/暴力枚举/Subsets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-119">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchRange.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/查找/SearchRange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="note.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/note.md">
+        <entry file="file://$PROJECT_DIR$/src/java_basic/note.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="69">
-                <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <first_editor relative-caret-position="513">
+                <caret line="194" selection-start-line="194" selection-end-line="194" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CharacterPermutation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/CharacterPermutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintCombineMinNumberFromArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/PrintCombineMinNumberFromArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintBinaryTreeFromTopToBottom.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/PrintBinaryTreeFromTopToBottom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeleteNodeInO1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/DeleteNodeInO1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="18" column="40" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="18" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindKthToTail.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/FindKthToTail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="27" column="52" lean-forward="true" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeTwoList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/MergeTwoList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MirrorBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/MirrorBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryTree_DiGui.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/BinaryTree_DiGui.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-184">
-              <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -186,17 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/concurrent/act_of_concurrent/chapter5/note.md" />
-        <option value="$PROJECT_DIR$/src/netease/code/interview/Main.java" />
-        <option value="$PROJECT_DIR$/src/javase/YiWeiOperator.java" />
-        <option value="$PROJECT_DIR$/src/java_basic/YiWeiOperator.java" />
-        <option value="$PROJECT_DIR$/src/java_basic/BigEndian.java" />
-        <option value="$PROJECT_DIR$/src/java_basic/SimpleDateFormat.java" />
-        <option value="$PROJECT_DIR$/src/java_basic/SimpleDateFormatText.java" />
-        <option value="$PROJECT_DIR$/src/java_basic/StringText.java" />
-        <option value="$PROJECT_DIR$/src/java_basic/ThreadExtends.java" />
-        <option value="$PROJECT_DIR$/src/java_basic/RunableImpl.java" />
-        <option value="$PROJECT_DIR$/src/java_basic/CallableImpl.java" />
         <option value="$PROJECT_DIR$/src/design_pattern/note.md" />
         <option value="$PROJECT_DIR$/src/software_engine/note.md" />
         <option value="$PROJECT_DIR$/src/software_engineering/note.md" />
@@ -227,7 +178,6 @@
         <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/NumOfOne.java" />
         <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/Power.java" />
         <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/PrintOneToMaxN.java" />
-        <option value="$PROJECT_DIR$/src/java_basic/note.md" />
         <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/PrintBinaryTreeFromTopToBottom.java" />
         <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/BinaryTree_Stack.java" />
         <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/ListNode.java" />
@@ -237,6 +187,18 @@
         <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/MirrorBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/CharacterPermutation.java" />
         <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/PrintCombineMinNumberFromArray.java" />
+        <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/UglyNumber.java" />
+        <option value="$PROJECT_DIR$/src/java_basic/note.md" />
+        <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/FirstNotRepeatingChar.java" />
+        <option value="$PROJECT_DIR$/src/interview_code/LoopQueue.java" />
+        <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/SimpleSelectSort.java" />
+        <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/数组/Duplicate_2.java" />
+        <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/单链表/ReverseLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/字符串/ValidPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/数论/HappyNumber.java" />
+        <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/位操作/ReverseBits.java" />
+        <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/暴力枚举/Subsets.java" />
+        <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/查找/SearchRange.java" />
       </list>
     </option>
   </component>
@@ -271,7 +233,7 @@
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_HOME" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="65" />
     <option name="y" value="181" />
     <option name="width" value="1276" />
@@ -288,7 +250,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -312,13 +273,99 @@
               <item name="Exercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm_of_剑指offer" type="462c0819:PsiDirectoryNode" />
+              <item name="essential_algorithm_of_leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="essential_algorithm_of_leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="位操作" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="essential_algorithm_of_leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="字符串" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="essential_algorithm_of_leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="数论" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="essential_algorithm_of_leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="暴力枚举" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="essential_algorithm_of_leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="查找" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="essential_algorithm_of_leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="线性表" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="essential_algorithm_of_leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="线性表" type="462c0819:PsiDirectoryNode" />
+              <item name="单链表" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="essential_algorithm_of_leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="线性表" type="462c0819:PsiDirectoryNode" />
+              <item name="数组" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="some_basic_practise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java_basic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -330,7 +377,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -352,58 +399,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintCombineMinNumberFromArray">
-    <configuration name="CharacterPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure_and_algorithm.algorithm_of_剑指offer.CharacterPermutation" />
+  <component name="RunManager" selected="Application.SearchRange">
+    <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure_and_algorithm.essential_algorithm_of_leetcode.数论.HappyNumber" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure_and_algorithm.algorithm_of_剑指offer.*" />
+          <option name="PATTERN" value="data_structure_and_algorithm.essential_algorithm_of_leetcode.数论.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FindKthToTail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure_and_algorithm.algorithm_of_剑指offer.FindKthToTail" />
+    <configuration name="ReverseBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure_and_algorithm.essential_algorithm_of_leetcode.位操作.ReverseBits" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure_and_algorithm.algorithm_of_剑指offer.*" />
+          <option name="PATTERN" value="data_structure_and_algorithm.essential_algorithm_of_leetcode.位操作.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MergeTwoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure_and_algorithm.algorithm_of_剑指offer.MergeTwoList" />
+    <configuration name="SearchRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure_and_algorithm.essential_algorithm_of_leetcode.查找.SearchRange" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure_and_algorithm.algorithm_of_剑指offer.*" />
+          <option name="PATTERN" value="data_structure_and_algorithm.essential_algorithm_of_leetcode.查找.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MirrorBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure_and_algorithm.algorithm_of_剑指offer.MirrorBinaryTree" />
+    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure_and_algorithm.essential_algorithm_of_leetcode.暴力枚举.Subsets" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure_and_algorithm.algorithm_of_剑指offer.*" />
+          <option name="PATTERN" value="data_structure_and_algorithm.essential_algorithm_of_leetcode.暴力枚举.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PrintCombineMinNumberFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure_and_algorithm.algorithm_of_剑指offer.PrintCombineMinNumberFromArray" />
+    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure_and_algorithm.essential_algorithm_of_leetcode.字符串.ValidPalindrome" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure_and_algorithm.algorithm_of_剑指offer.*" />
+          <option name="PATTERN" value="data_structure_and_algorithm.essential_algorithm_of_leetcode.字符串.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -450,19 +497,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.FindKthToTail" />
-      <item itemvalue="Application.MergeTwoList" />
-      <item itemvalue="Application.MirrorBinaryTree" />
-      <item itemvalue="Application.CharacterPermutation" />
-      <item itemvalue="Application.PrintCombineMinNumberFromArray" />
+      <item itemvalue="Application.ValidPalindrome" />
+      <item itemvalue="Application.HappyNumber" />
+      <item itemvalue="Application.ReverseBits" />
+      <item itemvalue="Application.Subsets" />
+      <item itemvalue="Application.SearchRange" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintCombineMinNumberFromArray" />
-        <item itemvalue="Application.CharacterPermutation" />
-        <item itemvalue="Application.MirrorBinaryTree" />
-        <item itemvalue="Application.MergeTwoList" />
-        <item itemvalue="Application.FindKthToTail" />
+        <item itemvalue="Application.SearchRange" />
+        <item itemvalue="Application.Subsets" />
+        <item itemvalue="Application.ReverseBits" />
+        <item itemvalue="Application.HappyNumber" />
+        <item itemvalue="Application.ValidPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -517,15 +564,22 @@
       <workItem from="1542863064693" duration="5922000" />
       <workItem from="1542941303097" duration="12207000" />
       <workItem from="1543130294705" duration="8788000" />
-      <workItem from="1543203121441" duration="9783000" />
+      <workItem from="1543203121441" duration="16001000" />
+      <workItem from="1543284662456" duration="1529000" />
+      <workItem from="1543306179834" duration="235000" />
+      <workItem from="1543306458939" duration="599000" />
+      <workItem from="1543307115653" duration="8564000" />
+      <workItem from="1543813093361" duration="4925000" />
+      <workItem from="1543833002518" duration="2526000" />
+      <workItem from="1543887901122" duration="6103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216131000" />
+    <option name="totallyTimeSpent" value="246830000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -537,19 +591,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31188118" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3305785" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26732674" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.39504132" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.39438945" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967742" visible="true" weight="0.15506808" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4967742" visible="true" weight="0.20499243" />
       <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
       <window_info id="Structure" order="1" sideWeight="0.5032258" side_tool="true" weight="0.18305598" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" sideWeight="0.50364965" side_tool="true" weight="0.18305598" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
+      <window_info id="Favorites" order="2" sideWeight="0.50364965" side_tool="true" weight="0.18305598" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -561,28 +615,28 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2739274" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2473525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.2214876" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.330033" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.2214876" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32843137" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -623,155 +677,16 @@
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java_basic/RunableImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_basic/CallableImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_basic/ThreadExtends.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/design_pattern/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/software_engineering/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="4556">
-            <caret line="268" selection-start-line="268" selection-end-line="268" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Exercise/concurrent/act_of_concurrent/chapter1/DeadLockDemo.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/computer_network/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="6154">
-            <caret line="362" column="14" selection-start-line="362" selection-start-column="14" selection-end-line="362" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/operating_system/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2346">
-            <caret line="138" selection-start-line="138" selection-end-line="138" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/ArrayExpand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/PrintTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2533">
-          <caret line="149" selection-start-line="149" selection-end-line="149" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/database/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3383">
-            <caret line="199" selection-start-line="199" selection-end-line="199" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java jdk8/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="313" column="28" selection-start-line="313" selection-start-column="28" selection-end-line="313" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/SimpleSelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/interview_code/MaxInterest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -811,13 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/数组/Duplicate_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -902,72 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-          <folding>
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#773#774#0" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/ReverseTheString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/BinaryTree_Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_basic/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3281">
-            <caret line="193" selection-start-line="193" selection-end-line="193" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -975,20 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="27" column="52" lean-forward="true" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/MergeTwoList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/BinaryTree_DiGui.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -1003,9 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1013,19 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="69">
-            <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1033,16 +845,214 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/PrintCombineMinNumberFromArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="123">
+            <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/UglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/FirstNotRepeatingChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Exercise/concurrent/act_of_concurrent/chapter1/DeadLockDemo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview_code/LoopQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="207" lean-forward="true" selection-start-line="207" selection-end-line="207" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/ArrayExpand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/PrintTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/ReverseTheString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/SimpleSelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/BinaryTree_Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/BinaryTree_DiGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/MergeTwoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/数组/Duplicate_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/数组/Duplicate_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="22" selection-start-line="26" selection-start-column="9" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/some_basic_practise/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/单链表/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/数论/HappyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-387">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/PrintCombineMinNumberFromArray.java">
+    <entry file="file://$PROJECT_DIR$/src/java_basic/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="513">
+            <caret line="194" selection-start-line="194" selection-end-line="194" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/字符串/ValidPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        <state relative-caret-position="68">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/位操作/ReverseBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="65" column="55" selection-start-line="65" selection-start-column="55" selection-end-line="65" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/暴力枚举/Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_and_algorithm/essential_algorithm_of_leetcode/查找/SearchRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
         </state>
       </provider>
     </entry>

@@ -1,6 +1,6 @@
 package data_structure_and_algorithm.algorithm_of_剑指offer;
 
-import data_structure_and_algorithm.ListNode;
+import data_structure_and_algorithm.some_basic_practise.ListNode;
 
 /**
  * Project:Exercise
