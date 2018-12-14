@@ -202,7 +202,11 @@ TRANSACTION_SERIALIZABLE 是最高的事务级别，它防止脏读、不可重�
 
 
 
+####22.String的一些方法
+##### trim() 去掉字符串首位的半角空格（英文空格）
+[https://blog.csdn.net/lyabc123456/article/details/81025531]
 
+[https://blog.csdn.net/etjnety/article/details/7842618]
 
 
 
