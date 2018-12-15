@@ -2,33 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c632d0b3-cecc-4749-ba18-265896416325" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/AddWithoutOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/LeftRotateString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/ReverseSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/StringToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/SumWithoutChengChu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/essential_algorithm_of_leetcode/字符串/IsRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/HouseRobber_198.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/IntegerToRoman_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/KeyboardRow_500.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/SubtreeOfAnotherTree_572.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/UncommonWordsFromTwoSentences_884.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/demo_to_login/login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/demo_to_login/qq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/demo_分形/Curve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/demo_分形/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/五子棋/MyFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/五子棋/MyPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/五子棋/StartEntrance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java_basic/StringTrimImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/test.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_basic/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java_basic/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/java_basic/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/java_basic/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/SubtreeOfAnotherTree_572.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/SubtreeOfAnotherTree_572.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interview_code/BracketsMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview_code/BracketsMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/java_basic/note.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,16 +42,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AddWithoutOperator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/AddWithoutOperator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringToInt.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/StringToInt.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
@@ -74,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IsRotation.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/essential_algorithm_of_leetcode/字符串/IsRotation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -83,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KeyboardRow_500.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/KeyboardRow_500.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="697">
@@ -95,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UncommonWordsFromTwoSentences_884.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/UncommonWordsFromTwoSentences_884.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="901">
@@ -107,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HouseRobber_198.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/HouseRobber_198.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="765">
@@ -116,7 +93,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntegerToRoman_12.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/IntegerToRoman_12.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
@@ -125,16 +102,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubtreeOfAnotherTree_572.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/SubtreeOfAnotherTree_572.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            <state relative-caret-position="-264">
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interview_code/BracketsMatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/some_basic_practise/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -143,7 +129,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTree_DiGui.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/some_basic_practise/BinaryTree_DiGui.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -169,7 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/MergeTwoList.java" />
         <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/MirrorBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/CharacterPermutation.java" />
         <option value="$PROJECT_DIR$/src/data_structure_and_algorithm/algorithm_of_剑指offer/PrintCombineMinNumberFromArray.java" />
@@ -220,21 +205,16 @@
         <option value="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/HouseRobber_198.java" />
         <option value="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/IntegerToRoman_12.java" />
         <option value="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/SubtreeOfAnotherTree_572.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview_code/BracketsMatch.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\maven\mavenRepository" />
-        <option name="mavenHome" value="D:/maven/apache-maven-3.5.4-bin/apache-maven-3.5.4" />
-        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -255,8 +235,8 @@
     <option name="jreName" value="#JAVA_HOME" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="181" />
+    <option name="x" value="64" />
+    <option name="y" value="180" />
     <option name="width" value="1276" />
     <option name="height" value="508" />
   </component>
@@ -271,104 +251,52 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="SomethingAboutJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SomethingAboutJava" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="SomethingAboutJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SomethingAboutJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="SomethingAboutJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SomethingAboutJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="SomethingAboutJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SomethingAboutJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="SomethingAboutJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SomethingAboutJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="SomethingAboutJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SomethingAboutJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="some_basic_practise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="demo_to_show_json" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="五子棋" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java_basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -379,13 +307,14 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/Book/Java Study/shopping-management-system-master/shopping-management-system-master/3#Java狙击项目/fbird" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544860528641" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -412,7 +341,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubtreeOfAnotherTree_572">
+  <component name="RunManager" selected="Application.BracketsMatch">
+    <configuration name="BracketsMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview_code.BracketsMatch" />
+      <module name="Exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HouseRobber_198" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.data_structure_and_algorithm.leetcode.HouseRobber_198" />
       <module name="Exercise" />
@@ -423,6 +366,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="IntegerToRoman_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.data_structure_and_algorithm.leetcode.IntegerToRoman_12" />
@@ -434,17 +380,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="KeyboardRow_500" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.data_structure_and_algorithm.leetcode.KeyboardRow_500" />
-      <module name="Exercise" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.data_structure_and_algorithm.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="SubtreeOfAnotherTree_572" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.data_structure_and_algorithm.leetcode.SubtreeOfAnotherTree_572" />
@@ -456,6 +394,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="UncommonWordsFromTwoSentences_884" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.data_structure_and_algorithm.leetcode.UncommonWordsFromTwoSentences_884" />
@@ -467,62 +408,44 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.KeyboardRow_500" />
       <item itemvalue="Application.UncommonWordsFromTwoSentences_884" />
       <item itemvalue="Application.HouseRobber_198" />
       <item itemvalue="Application.IntegerToRoman_12" />
       <item itemvalue="Application.SubtreeOfAnotherTree_572" />
+      <item itemvalue="Application.BracketsMatch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BracketsMatch" />
         <item itemvalue="Application.SubtreeOfAnotherTree_572" />
         <item itemvalue="Application.IntegerToRoman_12" />
         <item itemvalue="Application.HouseRobber_198" />
         <item itemvalue="Application.UncommonWordsFromTwoSentences_884" />
-        <item itemvalue="Application.KeyboardRow_500" />
       </list>
     </recent_temporary>
   </component>
@@ -595,78 +518,80 @@
       <workItem from="1544684153379" duration="3822000" />
       <workItem from="1544696964311" duration="2398000" />
       <workItem from="1544793044444" duration="259000" />
+      <workItem from="1544859820425" duration="868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="295500000" />
+    <option name="totallyTimeSpent" value="296368000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967742" visible="true" weight="0.211472" />
       <window_info id="Structure" order="1" sideWeight="0.5032258" side_tool="true" weight="0.18305598" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.25577557" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3305785" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15676567" />
-      <window_info anchor="bottom" id="Spring" order="8" weight="0.32838285" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30033004" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4967742" visible="true" weight="0.20801815" />
-      <window_info anchor="right" id="Bean Validation" order="4" />
-      <window_info id="Web" order="3" side_tool="true" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" sideWeight="0.50364965" side_tool="true" weight="0.18305598" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3250825" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50364965" side_tool="true" weight="0.18305598" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3250825" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15597485" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.29937106" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3305785" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3245283" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32838285" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.25577557" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.2214876" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2473525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2739274" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2739274" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.330033" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.2214876" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.330033" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32843137" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -697,30 +622,29 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="2" />
-    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/数组/Duplicate_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/数组/Duplicate_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -861,13 +785,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/java jdk8/src.zip!/javax/swing/ImageIcon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2975">
-          <caret line="216" selection-start-line="216" selection-end-line="216" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/java jdk8/src.zip!/javax/swing/ImageIcon.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/demo_to_login/login.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1309">
@@ -928,13 +846,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/java jdk8/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47600">
-          <caret line="2883" column="34" selection-start-line="2883" selection-start-column="34" selection-end-line="2883" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/java jdk8/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1054,8 +966,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/SubtreeOfAnotherTree_572.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        <state relative-caret-position="-264">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview_code/BracketsMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1076,7 +995,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1099,7 +1018,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1136,6 +1055,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

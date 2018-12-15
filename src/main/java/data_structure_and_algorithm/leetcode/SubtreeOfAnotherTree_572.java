@@ -1,4 +1,4 @@
-package main.java.data_structure_and_algorithm.leetcode;
+package data_structure_and_algorithm.leetcode;
 
 import main.java.data_structure_and_algorithm.some_basic_practise.TreeNode;
 

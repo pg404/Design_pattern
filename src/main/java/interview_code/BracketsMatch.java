@@ -1,4 +1,4 @@
-package main.java.interview_code;
+package interview_code;
 
 import java.util.Scanner;
 import java.util.Stack;
