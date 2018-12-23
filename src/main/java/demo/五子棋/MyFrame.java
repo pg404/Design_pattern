@@ -1,4 +1,4 @@
-package main.java.demo.五子棋;
+package demo.五子棋;
 
 import javax.swing.*;
 import java.awt.*;

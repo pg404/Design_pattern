@@ -1,6 +1,6 @@
-package main.java.data_structure_and_algorithm.algorithm_of_剑指offer;
+package data_structure_and_algorithm.algorithm_of_剑指offer;
 
-import main.java.data_structure_and_algorithm.some_basic_practise.ListNode;
+import data_structure_and_algorithm.some_basic_practise.ListNode;
 
 /**
  * Project:Exercise

@@ -1,4 +1,4 @@
-package main.java.java_basic;
+package java_basic;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

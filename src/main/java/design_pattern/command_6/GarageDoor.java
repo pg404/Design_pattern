@@ -1,4 +1,4 @@
-package main.java.design_pattern.command_6;
+package design_pattern.command_6;
 
 public class GarageDoor {
 	String location;

@@ -1,4 +1,4 @@
-package main.java.concurrent.act_of_concurrent.chapter1;
+package concurrent.act_of_concurrent.chapter1;
 
 /**
  * Project:Exercise

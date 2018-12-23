@@ -1,4 +1,4 @@
-package main.java.design_pattern.factory_4;
+package design_pattern.factory_4;
 
 /**
  * Project:Exercise

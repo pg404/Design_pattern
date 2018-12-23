@@ -1,4 +1,4 @@
-package main.java.data_structure_and_algorithm.essential_algorithm_of_leetcode.字符串;
+package data_structure_and_algorithm.essential_algorithm_of_leetcode.字符串;
 
 import java.util.Scanner;
 

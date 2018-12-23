@@ -1,4 +1,4 @@
-package main.java.concurrent.act_of_concurrent.chapter2;
+package concurrent.act_of_concurrent.chapter2;
 
 import java.util.ArrayList;
 import java.util.List;

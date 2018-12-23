@@ -1,4 +1,4 @@
-package main.java.demo.demo_to_login;
+package demo.demo_to_login;
 
 import javax.swing.*;
 import java.awt.*;

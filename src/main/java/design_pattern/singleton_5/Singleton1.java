@@ -1,4 +1,4 @@
-package main.java.design_pattern.singleton_5;
+package design_pattern.singleton_5;
 
 /**
  * Project:Exercise

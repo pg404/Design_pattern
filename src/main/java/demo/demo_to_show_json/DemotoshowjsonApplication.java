@@ -1,4 +1,4 @@
-package main.java.demo.demo_to_show_json;
+package demo.demo_to_show_json;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

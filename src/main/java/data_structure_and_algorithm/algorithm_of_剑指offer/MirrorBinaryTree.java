@@ -1,12 +1,12 @@
-package main.java.data_structure_and_algorithm.algorithm_of_剑指offer;
+package data_structure_and_algorithm.algorithm_of_剑指offer;
 
-import main.java.data_structure_and_algorithm.some_basic_practise.TreeNode;
+import data_structure_and_algorithm.some_basic_practise.TreeNode;
 
 import java.util.ArrayList;
 import java.util.Stack;
 
-import static main.java.data_structure_and_algorithm.some_basic_practise.BinaryTree_DiGui.init;
-import static main.java.data_structure_and_algorithm.algorithm_of_剑指offer.PrintBinaryTreeFromTopToBottom.print;
+import static data_structure_and_algorithm.some_basic_practise.BinaryTree_DiGui.init;
+import static data_structure_and_algorithm.algorithm_of_剑指offer.PrintBinaryTreeFromTopToBottom.print;
 
 /**
  * Project:Exercise

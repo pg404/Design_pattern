@@ -1,4 +1,4 @@
-package main.java.data_structure_and_algorithm.essential_algorithm_of_leetcode.暴力枚举;
+package data_structure_and_algorithm.essential_algorithm_of_leetcode.暴力枚举;
 
 import java.util.ArrayList;
 import java.util.Arrays;

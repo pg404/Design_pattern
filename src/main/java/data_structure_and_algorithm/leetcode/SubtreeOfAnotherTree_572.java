@@ -1,6 +1,6 @@
 package data_structure_and_algorithm.leetcode;
 
-import main.java.data_structure_and_algorithm.some_basic_practise.TreeNode;
+import data_structure_and_algorithm.some_basic_practise.TreeNode;
 
 /**
  * Project:Exercise

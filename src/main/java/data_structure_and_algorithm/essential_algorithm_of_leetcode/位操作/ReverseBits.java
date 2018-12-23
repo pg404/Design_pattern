@@ -1,4 +1,4 @@
-package main.java.data_structure_and_algorithm.essential_algorithm_of_leetcode.位操作;
+package data_structure_and_algorithm.essential_algorithm_of_leetcode.位操作;
 
 /**
  * Project:Exercise

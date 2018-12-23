@@ -1,4 +1,4 @@
-package main.java.concurrent.act_of_concurrent.chapter3;
+package concurrent.act_of_concurrent.chapter3;
 
 import java.util.concurrent.locks.ReentrantLock;
 

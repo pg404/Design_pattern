@@ -1,6 +1,6 @@
-package main.java.data_structure_and_algorithm.essential_algorithm_of_leetcode.线性表.单链表;
+package data_structure_and_algorithm.essential_algorithm_of_leetcode.线性表.单链表;
 
-import main.java.data_structure_and_algorithm.some_basic_practise.ListNode;
+import data_structure_and_algorithm.some_basic_practise.ListNode;
 
 /**
  * Project:Exercise

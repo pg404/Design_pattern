@@ -1,4 +1,4 @@
-package main.java.data_structure_and_algorithm.essential_algorithm_of_leetcode.数论;
+package data_structure_and_algorithm.essential_algorithm_of_leetcode.数论;
 
 import java.util.HashSet;
 import java.util.Scanner;

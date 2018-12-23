@@ -1,4 +1,4 @@
-package main.java.data_structure_and_algorithm.some_basic_practise;
+package data_structure_and_algorithm.some_basic_practise;
 
 import java.util.Scanner;
 import java.util.Stack;

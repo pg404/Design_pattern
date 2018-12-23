@@ -1,4 +1,4 @@
-package main.java.concurrent.act_of_concurrent.chapter4;
+package concurrent.act_of_concurrent.chapter4;
 
 import java.io.IOException;
 import java.io.PipedReader;

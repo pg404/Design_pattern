@@ -1,4 +1,4 @@
-package main.java.data_structure_and_algorithm.algorithm_of_剑指offer;
+package data_structure_and_algorithm.algorithm_of_剑指offer;
 
 
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package main.java.concurrent.act_of_concurrent.chapter4;
+package concurrent.act_of_concurrent.chapter4;
 
 import java.lang.management.ManagementFactory;
 import java.lang.management.ThreadInfo;

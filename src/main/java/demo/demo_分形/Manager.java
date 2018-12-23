@@ -1,4 +1,4 @@
-package main.java.demo.demo_分形;
+package demo.demo_分形;
 
 /**
  * Project:Exercise
