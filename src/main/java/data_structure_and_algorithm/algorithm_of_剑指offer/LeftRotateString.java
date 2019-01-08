@@ -1,6 +1,6 @@
 package data_structure_and_algorithm.algorithm_of_剑指offer;
 
-import static main.java.data_structure_and_algorithm.algorithm_of_剑指offer.ReverseSentence.reverse;
+import static data_structure_and_algorithm.algorithm_of_剑指offer.ReverseSentence.reverse;
 
 /**
  * Project:Exercise

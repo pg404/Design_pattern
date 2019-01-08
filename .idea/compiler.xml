@@ -9,7 +9,7 @@
         <module name="Exercise" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11">
+    <bytecodeTargetLevel>
       <module name="Exercise" target="1.8" />
     </bytecodeTargetLevel>
   </component>
