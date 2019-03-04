@@ -12,6 +12,8 @@
 ####二叉树的先序遍历，中序遍历，后序遍历
 [https://blog.csdn.net/jssongwei/article/details/50790253]
 
+[https://www.jianshu.com/p/fa22a1cda36d]
+
 + 前序遍历  
 前序遍历首先访问根结点然后遍历左子树，最后遍历右子树。在遍历左、右子树时，仍然先访问根结点，然后遍历左子树，最后遍历右子树。
 

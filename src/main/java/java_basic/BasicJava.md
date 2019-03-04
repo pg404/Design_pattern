@@ -26,7 +26,9 @@ Java语言是解释性语言，运行过程为，源代码经过Java编译器编
 ####4.String, StringBuffer和StringBuilder
  [https://blog.csdn.net/weixin_41101173/article/details/79677982]
  
- >String 类型和 StringBuffer 类型的主要性能区别其实在于 String 是不可变的对象, 因此在每次对 String 类型进行改变的时候其实都等同于生成了一个新的 String 对象，而如果是使用 StringBuffer 类则结果就不一样了，每次结果都会对 StringBuffer 对象本身进行操作，而不是生成新的对象。
+ >String 类型和 StringBuffer 类型的主要性能区别其实在于 String 是不可变的对象, 
+ 因此在每次对 String 类型进行改变的时候其实都等同于生成了一个新的 String 对象，
+ 而如果是使用 StringBuffer 类则结果就不一样了，每次结果都会对 StringBuffer 对象本身进行操作，而不是生成新的对象。
  
  
  
@@ -55,7 +57,7 @@ Java语言是解释性语言，运行过程为，源代码经过Java编译器编
                  ① 创建ServerSocket对象，绑定监听端口  
                  ② 通过accept()方法监听客户端请求  
                  ③ 连接建立后，通过输入流读取客户端发送的请求信息  
-                 ④ 通过输出流向客户端发送乡音信息  
+                 ④ 通过输出流向客户端发送相应信息  
                  ⑤ 关闭相关资源  
  （3）、客户端：  
                  ① 创建Socket对象，指明需要连接的服务器的地址和端口号  
@@ -64,9 +66,11 @@ Java语言是解释性语言，运行过程为，源代码经过Java编译器编
                  ④ 关闭响应资源               
 
 ####7.ArrayList、vector和LinkedList
-ArrayList和Vector是采用数组方式存储数据，此数组元素数大于实际存储的数据以便增加插入元素，都允许直接序号索引元素，但是插入数据要涉及到数组元素移动等内存操作，所以插入数据慢，查找有下标，所以查询数据快，
+ArrayList和Vector是采用数组方式存储数据，此数组元素数大于实际存储的数据以便增加插入元素，都允许直接序号索引元素，
+但是插入数据要涉及到数组元素移动等内存操作，所以插入数据慢，查找有下标，所以查询数据快，
 Vector由于使用了synchronized方法-线程安全，所以性能上比ArrayList要差，  
-LinkedList使用双向链表实现存储，按序号索引数据需要进行向前或向后遍历，但是插入数据时只需要记录本项前后项即可，插入数据较快，但与此同时，linklist不是线程安全的。
+LinkedList使用双向链表实现存储，按序号索引数据需要进行向前或向后遍历，但是插入数据时只需要记录本项前后项即可，
+插入数据较快，但与此同时，Linklist不是线程安全的。
 
 ####8.HashMap、Hashtable和TreeMap
 [https://blog.csdn.net/wangxing233/article/details/79452946]  
@@ -97,14 +101,16 @@ Collections是个java.util下的类，它包含有各种有关集合操作的静
 3）Callable接口的call()方法允许抛出异常，而Runnable接口的run()方法的异常只能在内部消化，不能继续上抛  
 4）加入线程池运行，Runnable使用ExecutorService的execute方法，Callable使用submit方法  
 
->注：Callable接口支持返回执行结果，此时需要调用FutureTask.get()方法实现，此方法会阻塞主线程直到获取返回结果，当不调用此方法时，主线程不会阻塞
+>注：Callable接口支持返回执行结果，此时需要调用FutureTask.get()方法实现，
+此方法会阻塞主线程直到获取返回结果，当不调用此方法时，主线程不会阻塞
 
 
 ####11.sleep()和wait()的区别
 [https://blog.csdn.net/xyh269/article/details/52613507]  
 
 总的来说，sleep() 和 wait() 的区别就是 调用sleep方法的线程不会释放对象锁，而调用wait() 方法会释放对象锁  
->（1）原理不同，sleep()是Thread类的静态方法，是线程用来控制自身流程的，而wait()是Object类的方法，用于线程间的通信，会使当前拥有该对象锁的进程等待，直到其他线程调用notify方法时才醒来.  
+>（1）原理不同，sleep()是Thread类的静态方法，是线程用来控制自身流程的，而wait()是Object类的方法，
+用于线程间的通信，会使当前拥有该对象锁的进程等待，直到其他线程调用notify方法时才醒来.  
 （2）对锁的处理机制不同，sleep()不涉及线程间的通信，不会释放锁，而wait()需要释放锁。  
 （3）使用区域不同，wait()用于同步控制方法或者同步语句块中，sleep()可以在任何地方使用  
 （4）sleep方法必须捕获异常，因为有可能在sleep过程中被其他对象调用它的interrupt(),产生InterruptedException。
@@ -117,7 +123,8 @@ Collections是个java.util下的类，它包含有各种有关集合操作的静
 
 ####13.线程池
 [https://www.jianshu.com/p/210eab345423]  
->在java语言中，可以通过new Thread 方法创建一个新的线程执行任务，但是线程的创建是非常耗时的，而且刚创建出来的新的线程都是各自运行，缺乏统一的管理，
+>在java语言中，可以通过new Thread 方法创建一个新的线程执行任务，但是线程的创建是非常耗时的，
+而且刚创建出来的新的线程都是各自运行，缺乏统一的管理，
 这样可能会导致创建过多的线程从而过度消耗系统的资源，线程池的引入就是为了解决这些问题。 
 
 ####14.JDBC事务隔离级别
@@ -139,10 +146,12 @@ TRANSACTION_SERIALIZABLE 是最高的事务级别，它防止脏读、不可重�
 ####17.Scanner的一些笔记
 + nextInt()、next()、nextLine()  
 [https://blog.csdn.net/Megustas_JJC/article/details/68960433]
->nextInt(): it only reads the int value, nextInt() places the cursor（光标） in the same line after reading the input.（nextInt()只读取数值，剩下”\n”还没有读取，并将cursor放在本行中）
+>nextInt(): it only reads the int value, nextInt() places the cursor（光标） in the same line after reading the input.
+（nextInt()只读取数值，剩下”\n”还没有读取，并将cursor放在本行中）
  
 >next(): read the input only till the space. It can’t read two words separated by space. Also, next() places the cursor in the same line after reading the input.（next()只读空格之前的数据，并且cursor指向本行） 
- next() 方法遇见第一个有效字符（非空格，非换行符）时，开始扫描，当遇见第一个分隔符或结束符(空格或换行符)时，结束扫描，获取扫描到的内容，即获得第一个扫描到的不含空格、换行符的单个字符串。
+ next() 方法遇见第一个有效字符（非空格，非换行符）时，开始扫描，当遇见第一个分隔符或结束符(空格或换行符)时，
+ 结束扫描，获取扫描到的内容，即获得第一个扫描到的不含空格、换行符的单个字符串。
  
 >nextLine(): reads input including space between the words (that is, it reads till the end of line \n). Once the input is read, nextLine() positions the cursor in the next line. 
  nextLine()时，则可以扫描到一行内容并作为一个字符串而被获取到。
@@ -158,7 +167,7 @@ TRANSACTION_SERIALIZABLE 是最高的事务级别，它防止脏读、不可重�
 
 [https://blog.csdn.net/sinat_35121480/article/details/53510793]
 
-+ 按位于运算符 & 
++ 按位与运算符 & 
 >参加运算的两个数据，按二进制位进行“与”运算。  
 运算规则：0&0=0;  0&1=0;   1&0=0;    1&1=1;  
 即：两位同时为“1”，结果才为“1”，否则为0
@@ -207,6 +216,14 @@ TRANSACTION_SERIALIZABLE 是最高的事务级别，它防止脏读、不可重�
 [https://blog.csdn.net/lyabc123456/article/details/81025531]
 
 [https://blog.csdn.net/etjnety/article/details/7842618]
+
+
+####23原码、反码、补码
+[https://www.cnblogs.com/zhangziqiu/archive/2011/03/30/ComputerCode.html]  
+原码最高位表示符号位，0正1负  
+正数的原码、反码、补码都是一样的，  
+而对于负数，反码是在其原码的基础上，符号位不变，其他位置取反  
+补码是在其原码的基础上，符号位不变，其余各位取反加1；
 
 
 
