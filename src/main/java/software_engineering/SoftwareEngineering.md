@@ -280,6 +280,7 @@ Liskov替换原则（Liskov Substitution Principle (LSP)）：子类可以替换
 （4）行为或性能错误   
 （5）初始化和终止错误   
 
+
 黑盒测试的方法：   
 Graph-based testing methods 基于图的测试方法   
 Equivalence partitioning 等价类划分   
