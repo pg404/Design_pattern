@@ -2,76 +2,184 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c632d0b3-cecc-4749-ba18-265896416325" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/computer_omposition_principle/computer_omposition_principle.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/HuffmanTreeBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/LinkedNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linux/linux.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/LinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/LinkedList/QuestionOneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adapter_7/ducks/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adapter_7/ducks/DuckAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adapter_7/ducks/DuckTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adapter_7/ducks/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adapter_7/ducks/Turkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adapter_7/ducks/TurkeyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adapter_7/ducks/TurkeyTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adapter_7/ducks/WildTurkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adapter_7/iterenum/EI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adapter_7/iterenum/EnumerationIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adapter_7/iterenum/EnumerationIteratorTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adapter_7/iterenum/IteratorEnumeration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/adapter_7/iterenum/IteratorEnumerationTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menu/MenuComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menu/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menu/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menu/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/CompositeIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/MenuComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/NullIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/decorator_3/io/InputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/decorator_3/io/LowerCaseInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/decorator_3/io/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/decorator_3/starbuzz/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/decorator_3/starbuzz/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/decorator_3/starbuzz/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/decorator_3/starbuzz/Decaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/decorator_3/starbuzz/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/decorator_3/starbuzz/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/decorator_3/starbuzz/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/decorator_3/starbuzz/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/decorator_3/starbuzz/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/decorator_3/starbuzz/StarbuzzCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/decorator_3/starbuzz/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/Amplifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/CdPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/DvdPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/HomeTheaterFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/HomeTheaterTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/PopcornPopper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/Projector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/TheaterLights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/Tuner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/AlternatingDinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/CafeMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/DinerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/DinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/PancakeHouseMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/AlternatingDinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/DinerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/DinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/PancakeHouseMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/transition/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/transition/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/transition/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/observer_2/swing/SwingObserverExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/MatchMakingTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/NonOwnerInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/OwnerInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/PersonBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/PersonBeanImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/virtualproxy/ImageComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/virtualproxy/ImageProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/virtualproxy/ImageProxyTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/state_12/gumball/GumballMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/state_12/gumball/GumballMachineTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/DecoyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/FakeQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/FlyRocketPowered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/MiniDuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/MiniDuckSimulator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/ModelDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/RedHeadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/RubberDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/barista/BeverageTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/barista/CaffeineBeverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/barista/CaffeineBeverageWithHook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/barista/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/barista/CoffeeWithHook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/barista/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/barista/TeaWithHook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/frame/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/simplebarista/Barista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/simplebarista/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/simplebarista/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/sort/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/sort/DuckSortTestDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/Algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/Algorithm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/AddWithoutOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/AddWithoutOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/CharacterPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/CharacterPermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/DeleteNodeInO1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/DeleteNodeInO1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/FindFirstCommonNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/FindFirstCommonNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/FindKthToTail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/FindKthToTail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/FindTheNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/FindTheNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/FirstNotRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/FirstNotRepeatingChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/GetLeastKNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/GetLeastKNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/LeftRotateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/LeftRotateString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/MakeQueueWithTwoStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/MakeQueueWithTwoStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/MergeTwoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/MergeTwoList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/MirrorBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/MirrorBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/MoreThanHalfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/MoreThanHalfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/NumOfOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/NumOfOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/Power.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/PrintBinaryTreeFromTopToBottom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/PrintBinaryTreeFromTopToBottom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/PrintCombineMinNumberFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/PrintCombineMinNumberFromArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/PrintOneToMaxN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/PrintOneToMaxN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/RebuildBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/RebuildBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/ReplaceWhiteSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/ReplaceWhiteSpace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/ReverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/ReverseSentence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/StringToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/StringToInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/SumWithoutChengChu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/SumWithoutChengChu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/TreeDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/TreeDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/UglyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/UglyNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/essential_algorithm_of_leetcode/位操作/ReverseBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/essential_algorithm_of_leetcode/位操作/ReverseBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/essential_algorithm_of_leetcode/字符串/IsRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/essential_algorithm_of_leetcode/字符串/IsRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/essential_algorithm_of_leetcode/字符串/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/essential_algorithm_of_leetcode/字符串/ValidPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/essential_algorithm_of_leetcode/数论/HappyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/essential_algorithm_of_leetcode/数论/HappyNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/essential_algorithm_of_leetcode/暴力枚举/Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/essential_algorithm_of_leetcode/暴力枚举/Subsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/essential_algorithm_of_leetcode/查找/SearchRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/essential_algorithm_of_leetcode/查找/SearchRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/单链表/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/essential_algorithm_of_leetcode/线性表/单链表/ReverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/数组/Duplicate_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/essential_algorithm_of_leetcode/线性表/数组/Duplicate_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/数组/Duplicate_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/essential_algorithm_of_leetcode/线性表/数组/Duplicate_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/java集合框架层次结构图.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/java集合框架层次结构图.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/HouseRobber_198.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/HouseRobber_198.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/IntegerToRoman_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/IntegerToRoman_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/JewelsAndStones_771.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/JewelsAndStones_771.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/KeyboardRow_500.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/KeyboardRow_500.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/SortArrayByParity_905.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/SortArrayByParity_905.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/SubtreeOfAnotherTree_572.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/SubtreeOfAnotherTree_572.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/ToLowerCase_709.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/ToLowerCase_709.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/TwoSum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/TwoSum_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/UncommonWordsFromTwoSentences_884.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/UncommonWordsFromTwoSentences_884.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/some_basic_practise/ArrayExpand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/some_basic_practise/ArrayExpand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/some_basic_practise/BinaryTree_DiGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/some_basic_practise/BinaryTree_DiGui.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/some_basic_practise/BinaryTree_Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/some_basic_practise/BinaryTree_Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/some_basic_practise/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/some_basic_practise/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/some_basic_practise/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/some_basic_practise/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/some_basic_practise/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/some_basic_practise/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/some_basic_practise/PrintTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/some_basic_practise/PrintTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/some_basic_practise/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/some_basic_practise/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/some_basic_practise/ReverseTheString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/some_basic_practise/ReverseTheString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/some_basic_practise/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/some_basic_practise/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/some_basic_practise/SimpleSelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/some_basic_practise/SimpleSelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/some_basic_practise/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/some_basic_practise/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/排序.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/排序.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/排序算法复杂度比较.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/排序算法复杂度比较.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/operating_system/OperatingSystem.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/operating_system/OperatingSystem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software_engineering/SoftwareEngineering.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software_engineering/SoftwareEngineering.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/interview_code/StringFullArrangement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interview_code/StringFullArrangement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure/HuffmanTreeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_structure/HuffmanTree/HuffmanTreeBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure/LinkedNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_structure/LinkedList/LinkedNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_structure/HuffmanTree/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/AddWithoutOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/CharacterPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/DeleteNodeInO1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/FindFirstCommonNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/FindKthToTail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/FindTheNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/FirstNotRepeatingChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/GetLeastKNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/LeftRotateString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/MakeQueueWithTwoStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/MergeTwoList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/MirrorBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/MoreThanHalfNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/NumOfOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/Power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/PrintBinaryTreeFromTopToBottom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/PrintCombineMinNumberFromArray$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/PrintCombineMinNumberFromArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/PrintOneToMaxN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/RebuildBinaryTree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/RebuildBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/ReplaceWhiteSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/ReverseSentence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/Singleton2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/StringToInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/SumWithoutChengChu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/TreeDepth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/algorithm_of_剑指offer/UglyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/data_structure/HuffmanTreeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/data_structure/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/essential_algorithm_of_leetcode/位操作/ReverseBits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/essential_algorithm_of_leetcode/字符串/IsRotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/essential_algorithm_of_leetcode/字符串/ValidPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/essential_algorithm_of_leetcode/数论/HappyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/essential_algorithm_of_leetcode/暴力枚举/Subsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/essential_algorithm_of_leetcode/查找/SearchRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/单链表/ReverseLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/数组/Duplicate_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/essential_algorithm_of_leetcode/线性表/数组/Duplicate_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/leetcode/HouseRobber_198.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/leetcode/IntegerToRoman_12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/leetcode/JewelsAndStones_771.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/leetcode/KeyboardRow_500.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/leetcode/MergeTwoSortedLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/leetcode/SortArrayByParity_905.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/leetcode/SubtreeOfAnotherTree_572.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/leetcode/ToLowerCase_709.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/leetcode/TwoSum_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/leetcode/UncommonWordsFromTwoSentences_884.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/some_basic_practise/ArrayExpand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/some_basic_practise/BinaryTree_DiGui.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/some_basic_practise/BinaryTree_Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/some_basic_practise/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/some_basic_practise/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/some_basic_practise/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/some_basic_practise/PrintTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/some_basic_practise/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/some_basic_practise/ReverseTheString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/some_basic_practise/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/some_basic_practise/SimpleSelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure_and_algorithm/some_basic_practise/TreeNode.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -104,115 +212,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/HuffmanTreeBuilder.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/MiniDuckSimulator1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-272">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="255">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/software_engineering/SoftwareEngineering.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="425">
-                <caret line="281" selection-start-line="281" selection-end-line="281" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/linux/linux.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/operating_system/OperatingSystem.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="290">
-                <caret line="118" column="49" selection-start-line="118" selection-start-column="49" selection-end-line="118" selection-end-column="49" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/Algorithm.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="136">
-                <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/computer_omposition_principle/computer_omposition_principle.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/LinkedNode.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/PersonBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="102">
+              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/MatchMakingTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="64" column="36" lean-forward="true" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
               <folding>
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/database/Database.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1989">
-                <caret line="117" column="19" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/virtualproxy/ImageProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/virtualproxy/ImageProxyTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-213">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java_basic/TestNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/virtualproxy/ImageComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            <state relative-caret-position="187">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/SubtreeOfAnotherTree_572.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/NonOwnerInvocationHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/OwnerInvocationHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/reflect/InvocationHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/PersonBeanImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -234,57 +321,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/command_6/NoCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/command_6/RemoteControl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/command_6/RemoteControlTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/command_6/RemoteLoader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/command_6/SimpleRemoteControl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/command_6/Stereo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/command_6/StereoOffCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/command_6/StereoOnWithCDCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/factory_4/CheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/factory_4/ChicagoStylePizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/factory_4/ClamPizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/factory_4/NYPizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/factory_4/NYStylePizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/factory_4/PepperoniPizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/factory_4/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/factory_4/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/factory_4/PizzaTestDrive.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/factory_4/SimplePizzaFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/factory_4/VeggiePizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/singleton_5/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/singleton_5/Singleton1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/design_pattern/singleton_5/Singleton2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview_code/BuyHouse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview_code/ClubMonitorSelection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview_code/CountApple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview_code/Dictionary.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview_code/LongZombie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview_code/LoopQueue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview_code/MaxInterest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java_basic/BigEndian.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java_basic/CallableImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java_basic/RunableImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java_basic/SimpleDateFormatText.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java_basic/StringText.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java_basic/StringTrimImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java_basic/ThreadExtends.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java_basic/YiWeiOperator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/leetcode/SortArrayByParity_905.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/algorithm_of_剑指offer/LeftRotateString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java_basic/TestNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview_code/LinkedListCircle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview_code/StringFullArrangement.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/Algorithm.md" />
-        <option value="$PROJECT_DIR$/src/main/java/computer_network/ComputerNetwork.md" />
-        <option value="$PROJECT_DIR$/src/main/java/database/Database.md" />
-        <option value="$PROJECT_DIR$/src/main/java/java_basic/BasicJava.md" />
-        <option value="$PROJECT_DIR$/src/main/java/operating_system/OperatingSystem.md" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/data_structure/Node.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure_and_algorithm/data_structure/HuffmanTreeBuilder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/software_engineering/SoftwareEngineering.md" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure/LinkedNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/barista/CoffeeWithHook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/barista/Tea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/barista/TeaWithHook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/templatemethod_8/sort/Duck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/Amplifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/CdPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/DvdPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/PopcornPopper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/Projector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/Screen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/TheaterLights.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/Tuner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/facade_9/hometheater/HomeTheaterTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/transition/Menu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/Menu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/DinerMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/DinerMenuIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/PancakeHouseMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/AlternatingDinerMenuIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/Menu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/AlternatingDinerMenuIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/CafeMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/DinerMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/DinerMenuIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/PancakeHouseMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menu/MenuItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menu/Menu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/NullIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/MenuItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/CompositeIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/Menu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/state_12/gumball/GumballMachine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/DecoyDuck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/FakeQuack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/FlyNoWay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/FlyRocketPowered.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/FlyWithWings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/MallardDuck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/ModelDuck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/MuteQuack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/Quack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/RedHeadDuck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/RubberDuck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/Squeak.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/PersonBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/PersonBeanImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/OwnerInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/NonOwnerInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/virtualproxy/ImageComponent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/virtualproxy/ImageProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/virtualproxy/ImageProxyTestDrive.java" />
       </list>
     </option>
   </component>
@@ -331,7 +418,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -365,10 +451,48 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="data_structure" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SomethingAboutJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SomethingAboutJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SomethingAboutJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SomethingAboutJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy_13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SomethingAboutJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SomethingAboutJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy_13" type="462c0819:PsiDirectoryNode" />
+              <item name="javaproxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SomethingAboutJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SomethingAboutJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy_13" type="462c0819:PsiDirectoryNode" />
+              <item name="virtualproxy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,27 +502,27 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551934642165" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552556677035" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA Projects\SomethingAboutJava\src\main\java\design_pattern\proxy_13" />
+      <recent name="D:\IDEA Projects\SomethingAboutJava\src\main\java\design_pattern\strategy_1" />
+      <recent name="D:\IDEA Projects\SomethingAboutJava\src\main\java\design_pattern\state_12" />
+      <recent name="D:\IDEA Projects\SomethingAboutJava\src\main\java\design_pattern\composite_11" />
+      <recent name="D:\IDEA Projects\SomethingAboutJava\src\main\java\design_pattern\iterator_10" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IdeaProjects\Exercise\src\main\java\demo\demo_to_login" />
       <recent name="D:\IdeaProjects\Exercise\src\main\resource" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IdeaProjects\Exercise\src\main\java\demo\demo_to_login" />
-      <recent name="D:\IdeaProjects\Exercise\src\main\java\demo\demo_to_show_json" />
-      <recent name="D:\IdeaProjects\Exercise\src\main\resource" />
-      <recent name="D:\IdeaProjects\Exercise\src\data_structure_and_algorithm" />
-      <recent name="D:\IdeaProjects\Exercise\src\operating_system" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -413,14 +537,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HuffmanTreeBuilder">
-    <configuration name="HuffmanTreeBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.HuffmanTreeBuilder" />
+  <component name="RunManager" selected="Application.ImageProxyTestDrive">
+    <configuration name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.state_12.gumball.GumballMachineTestDrive" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.*" />
+          <option name="PATTERN" value="design_pattern.state_12.gumball.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -428,13 +552,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview_code.LinkedListCircle" />
+    <configuration name="ImageProxyTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.proxy_13.virtualproxy.ImageProxyTestDrive" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview_code.*" />
+          <option name="PATTERN" value="design_pattern.proxy_13.virtualproxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -442,13 +566,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArrayByParity_905" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.leetcode.SortArrayByParity_905" />
+    <configuration name="MatchMakingTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.proxy_13.javaproxy.MatchMakingTestDrive" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.leetcode.*" />
+          <option name="PATTERN" value="design_pattern.proxy_13.javaproxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -456,13 +580,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFullArrangement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview_code.StringFullArrangement" />
+    <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.strategy_1.MiniDuckSimulator" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview_code.*" />
+          <option name="PATTERN" value="design_pattern.strategy_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -470,13 +594,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_basic.TestNumber" />
+    <configuration name="MiniDuckSimulator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.strategy_1.MiniDuckSimulator1" />
       <module name="Exercise" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_basic.*" />
+          <option name="PATTERN" value="design_pattern.strategy_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -491,12 +615,14 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -568,20 +694,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SortArrayByParity_905" />
-      <item itemvalue="Application.TestNumber" />
-      <item itemvalue="Application.LinkedListCircle" />
-      <item itemvalue="Application.StringFullArrangement" />
-      <item itemvalue="Application.HuffmanTreeBuilder" />
+      <item itemvalue="Application.GumballMachineTestDrive" />
+      <item itemvalue="Application.MiniDuckSimulator" />
+      <item itemvalue="Application.MiniDuckSimulator1" />
+      <item itemvalue="Application.MatchMakingTestDrive" />
+      <item itemvalue="Application.ImageProxyTestDrive" />
       <item itemvalue="Tomcat Server.mylocaltomcat" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HuffmanTreeBuilder" />
-        <item itemvalue="Application.StringFullArrangement" />
-        <item itemvalue="Application.LinkedListCircle" />
-        <item itemvalue="Application.TestNumber" />
-        <item itemvalue="Application.SortArrayByParity_905" />
+        <item itemvalue="Application.ImageProxyTestDrive" />
+        <item itemvalue="Application.MatchMakingTestDrive" />
+        <item itemvalue="Application.MiniDuckSimulator1" />
+        <item itemvalue="Application.MiniDuckSimulator" />
+        <item itemvalue="Application.GumballMachineTestDrive" />
       </list>
     </recent_temporary>
   </component>
@@ -670,12 +796,20 @@
       <workItem from="1551677155529" duration="4538000" />
       <workItem from="1551691071211" duration="218000" />
       <workItem from="1551790241714" duration="3112000" />
-      <workItem from="1551853904641" duration="2746000" />
+      <workItem from="1551853904641" duration="4113000" />
+      <workItem from="1552033384818" duration="3758000" />
+      <workItem from="1552139775730" duration="1654000" />
+      <workItem from="1552284113361" duration="165000" />
+      <workItem from="1552284435588" duration="1665000" />
+      <workItem from="1552460971357" duration="4127000" />
+      <workItem from="1552466278793" duration="1316000" />
+      <workItem from="1552467733402" duration="10000" />
+      <workItem from="1552544472507" duration="6964000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="337477000" />
+    <option name="totallyTimeSpent" value="358503000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -687,10 +821,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1513" height="973" extended-state="7" />
+    <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967742" visible="true" weight="0.2674499" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4967742" visible="true" weight="0.30545956" />
       <window_info id="Structure" order="1" sideWeight="0.5032258" side_tool="true" weight="0.18305598" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -700,12 +834,12 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3245283" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49965447" weight="0.34339622" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49965447" weight="0.24779874" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32955974" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29937106" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.17106918" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003455" side_tool="true" weight="0.2893082" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32955974" />
@@ -808,393 +942,363 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/factory_4/NYStylePizza.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/AlternatingDinerMenuIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="153">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/factory_4/PepperoniPizza.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergeri/MenuTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="144">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/factory_4/Pizza.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/AlternatingDinerMenuIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="280">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/factory_4/PizzaStore.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/CafeMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="331">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/factory_4/PizzaTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/factory_4/SimplePizzaFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/factory_4/VeggiePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/singleton_5/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/singleton_5/Singleton1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/singleton_5/Singleton2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview_code/BuyHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview_code/ClubMonitorSelection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview_code/CountApple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview_code/Dictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview_code/LongZombie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview_code/LoopQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview_code/MaxInterest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_basic/CallableImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_basic/RunableImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_basic/StringTrimImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_basic/ThreadExtends.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_basic/YiWeiOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/demo_to_show_json/DemotoshowjsonApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/demo_to_show_json/CommonController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/StringEqual.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="572" column="35" selection-start-line="572" selection-start-column="35" selection-end-line="572" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/ListRemove.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/SortArrayByParity_905.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/demo_to_show_json/OrderInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/algorithm_of_剑指offer/LeftRotateString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_basic/BigEndian.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/DinerMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview_code/BracketsMatch.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/DinerMenuIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="127">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview_code/LinkedListCircle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/PancakeHouseMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/Waitress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/iterator_10/dinermergercafe/MenuTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menu/Waitress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menu/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menu/MenuComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menu/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menu/MenuTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <caret line="85" column="19" lean-forward="true" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview_code/StringFullArrangement.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/Waitress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_basic/StringText.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/NullIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/CompositeIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/MenuComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/composite_11/menuiterator/MenuTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/state_12/gumball/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/state_12/gumball/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/DecoyDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/FakeQuack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/FlyBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/FlyNoWay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/FlyRocketPowered.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/FlyWithWings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/MallardDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/ModelDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/MuteQuack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/Quack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/QuackBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/RedHeadDuck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_basic/SimpleDateFormatText.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/RubberDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/Squeak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/MiniDuckSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/strategy_1/MiniDuckSimulator1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/reflect/InvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/PersonBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/PersonBeanImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="578">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/MergeTwoSortedLists.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/OwnerInvocationHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" selection-start-line="45" selection-end-line="53" />
+        <state relative-caret-position="68">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/DesignPattern.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1020">
-            <caret line="60" selection-start-line="60" selection-end-line="60" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_basic/BasicJava.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3655">
-            <caret line="215" column="60" selection-start-line="215" selection-start-column="60" selection-end-line="215" selection-end-column="60" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/computer_network/ComputerNetwork.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="6137">
-            <caret line="361" selection-start-line="361" selection-end-line="361" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/database/Database.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1989">
-            <caret line="117" column="19" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java_basic/TestNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/NonOwnerInvocationHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        <state relative-caret-position="153">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/SubtreeOfAnotherTree_572.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/javaproxy/MatchMakingTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/HuffmanTreeBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/software_engineering/SoftwareEngineering.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="425">
-            <caret line="281" selection-start-line="281" selection-end-line="281" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linux/linux.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/operating_system/OperatingSystem.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="290">
-            <caret line="118" column="49" selection-start-line="118" selection-start-column="49" selection-end-line="118" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/Algorithm.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="136">
-            <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/computer_omposition_principle/computer_omposition_principle.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/LinkedNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="1020">
+          <caret line="64" column="36" lean-forward="true" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
           <folding>
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/virtualproxy/ImageComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/virtualproxy/ImageProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/proxy_13/virtualproxy/ImageProxyTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-213">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
