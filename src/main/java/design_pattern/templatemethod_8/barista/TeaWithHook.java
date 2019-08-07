@@ -36,7 +36,7 @@ public class TeaWithHook extends CaffeineBeverageWithHook {
 		try {
 			answer = in.readLine();
 		} catch (IOException ioe) {
-			System.err.println("IO error trying to read your answer");
+			System.err.println("io error trying to read your answer");
 		}
 		if (answer == null) {
 			return "no";

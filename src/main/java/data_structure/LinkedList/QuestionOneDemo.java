@@ -1,6 +1,8 @@
 package data_structure.LinkedList;
 
 
+import org.junit.Test;
+
 import java.util.Stack;
 
 
@@ -26,8 +28,9 @@ public class QuestionOneDemo {
         LinkedNode tempNode = head;
 
         while (tempNode.getNext() != null){
+            stack.push(tempNode);
             tempNode = tempNode.next;
-            stack.push(tempNode); //  这里的顺序是否有点不妥当
+             //  这里的顺序
         }
 
         while (stack.size() > 0){
@@ -37,7 +40,27 @@ public class QuestionOneDemo {
 
     }
 
-//    @Test
+
+    /**
+     * @Method: reversePrint2
+     * @Param: [head]
+     * @Return void
+     * @Author: Alan Ruan
+     * @Date: 2019/04/01 15:50:45
+     * @Description: //TODO  使用系统的栈（递归）
+     */
+    public void reversePrint2(LinkedNode head){
+        if (head == null){
+            return;
+        }
+
+        reversePrint2(head.next);
+        System.out.println(head.getElement());
+    }
+
+
+
+   @Test
     public void test(){
         MyLinkedList myLinkedList = new MyLinkedList();
 
@@ -48,6 +71,9 @@ public class QuestionOneDemo {
         myLinkedList.insert(newNode1, 1);
         myLinkedList.insert(newNode2, 2);
         myLinkedList.insert(newNode3, 3);
+
+       System.out.println("原始序列为：");
+       myLinkedList.showAll();
 
 
     }

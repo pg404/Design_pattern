@@ -4,7 +4,7 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import practise.JUnit.SumUtil;
+import practise.jUnit.SumUtil;
 
 /** 
 * SumUtil Tester. 
